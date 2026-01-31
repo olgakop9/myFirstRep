@@ -13,3 +13,5 @@ console.log('Цена за экран:', screenPrice);
 console.log('Процент отката:', rollback);
 console.log('Полная стоимость:', fullPrice);
 console.log('Адаптивная верстка:', adaptive);
+
+console.log('Hello, Git!');
