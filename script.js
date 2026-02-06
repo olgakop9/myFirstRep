@@ -92,6 +92,7 @@ fullPrice = getFullPrice()
 servicePercentPrice = getServicePercentPrice()
 title = getTitle
 
+
 showTypeOf(title)
 showTypeOf(screenPrice)
 showTypeOf(adaptive)
