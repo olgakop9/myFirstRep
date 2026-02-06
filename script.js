@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Приведение типа данных
 'use strict'
 let rollback = 10
@@ -106,3 +107,22 @@ console.log(typeof adaptive);
 
 console.log("Стоимость верстки экранов " + screenPrice + "юани" + " и стоимость разработки сайта" + fullPrice + "юани")
  
+=======
+// Создаю  переменные
+let title = 'Мой проект';
+let screens = 'Простые, Сложные, Интерактивные';
+let screenPrice = 100;
+let rollback = 10;
+let fullPrice = 500;
+let adaptive = true;
+
+// Вывожу значения в консоль для проверки
+console.log('Название:', title);
+console.log('Типы экранов:', screens);
+console.log('Цена за экран:', screenPrice);
+console.log('Процент отката:', rollback);
+console.log('Полная стоимость:', fullPrice);
+console.log('Адаптивная верстка:', adaptive);
+
+console.log('Hello, Git!');
+>>>>>>> df4418cace7d11f7b457cc388338f7ed6c6df6d2
